@@ -1,0 +1,33 @@
+.scatterplot {
+  width: 100%;
+  max-width: 560px;
+  padding: 0 30px; 
+  position: relative; 
+
+  &__circle {
+    fill: none;
+    stroke: $red;
+    stroke-width: 2;
+
+    &:hover {
+      fill: $red;
+    }
+  }
+
+  &__axis {
+    path {
+      stroke: $dark-grey;
+    }
+    text {
+      font-size: 13px;
+    }
+    .tick line {
+      stroke: $dark-grey;
+    }
+  }  
+
+  &__axisLabel {
+    fill: $dark-grey;  
+    text-anchor: middle;  
+  }
+}

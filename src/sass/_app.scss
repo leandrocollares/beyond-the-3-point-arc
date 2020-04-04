@@ -1,0 +1,52 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: $dark-grey;
+  height: 100%;
+  width: 100%;
+  user-select: none;
+
+  header {
+    margin-top: 40px;
+    margin-bottom: 40px; 
+    padding: 0 30px;
+    h1 {
+      font-size: 17px;
+      text-align: center;
+    }
+  }
+
+  p {
+    text-align: left;
+    line-height: 1.65;
+    margin-bottom: 15px;
+    max-width: 560px;
+    padding: 0 30px;
+  }
+
+  a {
+    outline: none;
+    text-decoration: none;
+
+    &:link, &:visited {
+    color: $blue;
+    }
+
+    &:active {
+    color: $red
+    }
+
+    &:focus, &:hover {
+    color: $red;
+    border-bottom: 1px dotted;
+    }
+  }  
+
+  footer {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 40px;
+  }
+}
