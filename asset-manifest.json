@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beyond-the-3-point-arc/static/css/main.d4163297.chunk.css",
+    "main.js": "/beyond-the-3-point-arc/static/js/main.98ead487.chunk.js",
+    "main.js.map": "/beyond-the-3-point-arc/static/js/main.98ead487.chunk.js.map",
+    "runtime-main.js": "/beyond-the-3-point-arc/static/js/runtime-main.3b89ec62.js",
+    "runtime-main.js.map": "/beyond-the-3-point-arc/static/js/runtime-main.3b89ec62.js.map",
+    "static/js/2.41387beb.chunk.js": "/beyond-the-3-point-arc/static/js/2.41387beb.chunk.js",
+    "static/js/2.41387beb.chunk.js.map": "/beyond-the-3-point-arc/static/js/2.41387beb.chunk.js.map",
+    "index.html": "/beyond-the-3-point-arc/index.html",
+    "precache-manifest.57db1fabdee2393ebf5feb8cb3f0bb22.js": "/beyond-the-3-point-arc/precache-manifest.57db1fabdee2393ebf5feb8cb3f0bb22.js",
+    "service-worker.js": "/beyond-the-3-point-arc/service-worker.js",
+    "static/css/main.d4163297.chunk.css.map": "/beyond-the-3-point-arc/static/css/main.d4163297.chunk.css.map",
+    "static/js/2.41387beb.chunk.js.LICENSE.txt": "/beyond-the-3-point-arc/static/js/2.41387beb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b89ec62.js",
+    "static/js/2.41387beb.chunk.js",
+    "static/css/main.d4163297.chunk.css",
+    "static/js/main.98ead487.chunk.js"
+  ]
+}
